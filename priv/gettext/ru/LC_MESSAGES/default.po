@@ -1,0 +1,19 @@
+#: lib/pdfexample/html_birthday_list_generator.ex:87
+#, elixir-autogen, elixir-format
+msgid "Happy birthday friend!"
+msgstr "С днём рождения, друг!"
+
+#: lib/pdfexample/html_birthday_list_generator.ex:82
+#, elixir-autogen, elixir-format
+msgid "From"
+msgstr "От"
+
+#: lib/pdfexample/html_birthday_list_generator.ex:80
+#, elixir-autogen, elixir-format, fuzzy
+msgid "Happy Birthday"
+msgstr "С днём рождения, друг!"
+
+#: lib/pdfexample/html_birthday_list_generator.ex:91
+#, elixir-autogen, elixir-format
+msgid "Big boy congrats"
+msgstr "Поздравляю биг бой"

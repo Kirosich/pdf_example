@@ -1,0 +1,7 @@
+%{
+  "expo": {:hex, :expo, "0.5.2", "beba786aab8e3c5431813d7a44b828e7b922bfa431d6bfbada0904535342efe2", [:mix], [], "hexpm", "8c9bfa06ca017c9cb4020fabe980bc7fdb1aaec059fd004c2ab3bff03b1c599c"},
+  "gettext": {:hex, :gettext, "0.24.0", "6f4d90ac5f3111673cbefc4ebee96fe5f37a114861ab8c7b7d5b30a1108ce6d8", [:mix], [{:expo, "~> 0.5.1", [hex: :expo, repo: "hexpm", optional: false]}], "hexpm", "bdf75cdfcbe9e4622dd18e034b227d77dd17f0f133853a1c73b97b3d6c770e8b"},
+  "html_entities": {:hex, :html_entities, "0.5.2", "9e47e70598da7de2a9ff6af8758399251db6dbb7eebe2b013f2bbd2515895c3c", [:mix], [], "hexpm", "c53ba390403485615623b9531e97696f076ed415e8d8058b1dbaa28181f4fdcc"},
+  "pdf_generator": {:hex, :pdf_generator, "0.6.2", "601f145a0db0dcd7b8c35e1698038f78f18fc42eb3bd2001f826a3a239205f0e", [:mix], [], "hexpm", "82af2debaae156834b14dc0727cd8c3ded70ed4a2a909107d514bf28f5d1fc35"},
+  "sneeze": {:hex, :sneeze, "1.3.0", "eee01465b4ca031d7c94dd3e850ccdbecfce188d0bb4793a3a4ebb76f73531bf", [:make, :mix], [{:html_entities, "~> 0.5", [hex: :html_entities, repo: "hexpm", optional: false]}], "hexpm", "a2d11b03ccc381c56ce442ff56f244e0d7418449d44f18c69d7ccc0292e2b86b"},
+}
